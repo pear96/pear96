@@ -1,8 +1,7 @@
 <div align="center">
   
 [![HANI's GitHub stats](https://github-readme-stats.vercel.app/api?username=pear96&title_color=f6f2fa&icon_color=fbc7d4&locale=kr&text_color=f6f2fa&show_icons=true&bg_color=30,9796f0,fbc7d4&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
-  
-<img src="https://c.tenor.com/eP2gYNeZAAUAAAAC/baby-rapunzel.gif">
+
   
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
